@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/hello-world-location-and-weather-dashboard-228752-228762/hello_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/hello-world-location-and-weather-dashboard-228752-228762/hello_database/myapp.db

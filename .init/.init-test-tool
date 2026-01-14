@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/home/kavia/workspace/code-generation/hello-world-location-and-weather-dashboard-228752-228762/hello_database"
+}
